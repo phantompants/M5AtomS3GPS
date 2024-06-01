@@ -1,7 +1,7 @@
 # M5AtomS3GPS
 Code Pilot Request:
 
-write code for the M5Stack Atom S3 and M3080-KT GPS that records NMEA data in GPX format (lat, long, elevation and time) in files saved by daily and named by the nearest Capital/State city in format YYYYMMDD-StateCity.GPX. 
+Write code for the M5Stack Atom S3 and M3080-KT GPS that records NMEA data in GPX format (lat, long, elevation and time) in files saved by daily and named by the nearest Australian State/Territories city in format YYYYMMDD-StateCity.GPX. 
 
 Only record position data if unit moves more than 2m.
 
@@ -17,3 +17,4 @@ Enable the following functions:
 7. Use Wi-Fi SSID "IOT-4WD-24"
 8. Use Wi-Fi Password "BPJY3Z5RF@"
 9. Allow a Bluetooth connection for iOS Bluetooth Terminal functions
+10. Pick Nearest Australian city by size of city as at least 15% of State/Territories population (generate this list (for all Australian and New Zealand States/Territories) in the code with latitude and longitude sorted by State then City)
