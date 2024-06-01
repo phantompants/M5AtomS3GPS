@@ -14,4 +14,6 @@ Enable the following functions:
 4. When it has no satellite fix enable red border around the screen and a number depicting number of satellites connected, if none display and X
 5. Side button toggles the display on/off
 6. Allow a Wi-Fi connection to get NTP data and read the SD remotely
-7. Allow a Bluetooth connection for iOS Bluetooth Terminal functions
+7. Use Wi-Fi SSID "IOT-4WD-24"
+8. Use Wi-Fi Password "BPJY3Z5RF@"
+9. Allow a Bluetooth connection for iOS Bluetooth Terminal functions
