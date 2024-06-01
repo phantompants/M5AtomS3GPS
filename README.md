@@ -1,7 +1,7 @@
 # M5AtomS3GPS
 Code Pilot Request:
 
-Write code for the M5Stack Atom S3 and M3080-KT GPS that records NMEA data in GPX format (lat, long, elevation and time) in files saved by daily and named by the nearest Australian State/Territories city in format YYYYMMDD-StateCity.GPX. 
+Write code for the M5Stack Atom S3 and M3080-KT GPS (GPS TX Pin 22, RX Pin 21) that records NMEA data in GPX format (lat, long, elevation and time) in files saved by daily and named by the nearest Australian State/Territories city in format YYYYMMDD-StateCity.GPX. 
 
 Only record position data if unit moves more than 2m.
 
